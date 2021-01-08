@@ -1,1 +1,1 @@
-# testing
+# React Image Gallery
